@@ -28,10 +28,10 @@
         <div class="credit">
           This website is based on 
           <a 
-            href="https://github.com/jmbyun/jmbyun.github.io" 
+            href="https://github.com/cecilia322/cecilia322.github.io" 
             target="_blank"
           >
-            https://github.com/jmbyun/jmbyun.github.io
+            https://github.com/cecilia322/cecilia322.github.io
           </a>
         </div>
       </div>
