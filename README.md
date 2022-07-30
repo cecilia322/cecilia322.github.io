@@ -2,7 +2,7 @@
 
 This is a personal academic website built on top of a Google Sheet document that is super easy to maintain.
 
-This website at [https://cecilia322.github.io](https://cecilia322.github.io) is serving contents in [this Google Sheets document](https://docs.google.com/spreadsheets/d/e/2PACX-1vQqPZmK_4NyfVjo90k7svizGG6W5daZkgdBbLYRJpux9jKANeRh9dYi7K1BTV1diQ/pubhtml) and you don't even have to do anything to reflect the change to the website after editing the contents of this document. 
+This website at [https://cecilia322.github.io](https://cecilia322.github.io) is serving contents in [this Google Sheets document](https://docs.google.com/spreadsheets/d/1iM-lrdwvYRUaz2AEASGzeMrqX-M8wmZR/edit?usp=sharing&ouid=117030490975980509576&rtpof=true&sd=true) and you don't even have to do anything to reflect the change to the website after editing the contents of this document. 
 
 Fork this project and have your own website!
 
@@ -15,7 +15,7 @@ No actual contents are stored in this repository.
 
 1. Fork this repository to your account and rename it as "*{your-github-username}*.github.io". 
 
-1. Create your own Google Sheets document, copy and paste the contents of [this sheets document](https://docs.google.com/spreadsheets/d/e/2PACX-1vQqPZmK_4NyfVjo90k7svizGG6W5daZkgdBbLYRJpux9jKANeRh9dYi7K1BTV1diQ/pubhtml). Make sure to get all sheets in the document prepared. 
+1. Create your own Google Sheets document, copy and paste the contents of [this sheets document](https://docs.google.com/spreadsheets/d/1iM-lrdwvYRUaz2AEASGzeMrqX-M8wmZR/edit?usp=sharing&ouid=117030490975980509576&rtpof=true&sd=true). Make sure to get all sheets in the document prepared. 
 
 1. Set your document's sharing settings as: *Public on the web - Anyone on the Internet can find and view*.
 
