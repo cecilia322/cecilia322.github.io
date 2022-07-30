@@ -1,6 +1,6 @@
 {
   "private": true,
-  "name": "jmbyun.github.io",
+  "name": "cecilia322.github.io",
   "description": "A personal academic website.",
   "version": "1.0.0",
   "license": "MIT",
@@ -11,8 +11,8 @@
     "serve": "serve dist --single"
   },
   "author": {
-    "name": "jmbyun",
-    "email": "jmbyun91@gmail.com"
+    "name": "cecilia322",
+    "email": "2697535086@qq.com"
   },
   "dependencies": {
     "bulma": "^0.7.2",
